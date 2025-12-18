@@ -1,3 +1,6 @@
+Project repository:
+https://github.com/Shivanjali13/Number-Guess
+
 Number Guess Game
 
 It is beginner friendly python command line game where the computer randomly selects an number and the user hast to guess it within the allowed attempts as per the difficulty level of the game the user chooses.
